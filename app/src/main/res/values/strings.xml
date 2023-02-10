@@ -1,0 +1,193 @@
+<resources>
+    <string name="app_name">Интерактив Дзен</string>
+
+    <string name="start_button_comic">Конструктор\nмемов</string>
+    <string name="start_button_coop">Тесты в комиксах</string>
+    <string name="start_button_interact">Отборочный\nтур</string>
+
+    <string name="page_empty_title"></string>
+
+    <string name="page_quiz1_title">Викторина\n\"Достижение\"</string>
+    <string name="page_quiz2_title">Викторина\n\"Природа\"</string>
+    <string name="page_quiz3_title">Викторина\n\"Фрукты\"</string>
+    <string name="page_quiz4_title">Викторина\n\"Отношения\"</string>
+    <string name="page_quiz5_title">Викторина\n\"Звери\"</string>
+    <string name="page_quiz_info">Определите, что изображено на картинке. Перетащите нужные буквы в пустые окошки.</string>
+    <string name="page_quiz_info2">Из первых букв отгаданных ранее слов составьте ключевое слово.</string>
+
+    <string name="page_comic_info">Составьте мемы, перетаскивая облачка с репликами, и улыбнитесь :)</string>
+    <string name="page_comic1_title">Не будите Наташу</string>
+    <string name="page_comic_1_1">Пора на поезд!</string>
+    <string name="page_comic_1_2">Все финалисты в сборе!</string>
+    <string name="page_comic_1_3">Проект загрузил?</string>
+    <string name="page_comic_1_4">Презентацию сделал?</string>
+
+    <string name="page_comic2_title">Я делаю проект</string>
+    <string name="page_comic_2_1">Ну все же понятно!</string>
+    <string name="page_comic_2_2">Как оно может не компилиро- ваться?!</string>
+
+    <string name="page_comic3_title">Как я ушел от Яндекса</string>
+    <string name="page_comic_3_1">Ты чего?</string>
+    <string name="page_comic_3_2">Не знал, что в офисе ВК так круто!</string>
+    <string name="page_comic_3_3">Прощай, Яндекс…</string>
+
+    <string name="page_comic4_title">Если не попаду в Топ-1</string>
+    <string name="page_comic_4_1">Надо было меньше спать</string>
+    <string name="page_comic_4_2">Надо было от компа не вставать</string>
+
+    <string name="page_comic5_title">Скоро финал</string>
+    <string name="page_comic_5_1">Ждем финала</string>
+    <string name="page_comic_5_2">Попал? Не попал?</string>
+    <string name="page_comic_5_3">Возьмут? Не возьмут?</string>
+
+    <string name="page_comic6_title">Бессонными ночами</string>
+    <string name="page_comic_6_1">Опять о своем проекте думает…</string>
+    <string name="page_comic_6_2">Эх, мне бы в отпуск! Без детей!</string>
+    <string name="page_comic_6_3">Вот выиграю главный приз - куплю ей…</string>
+
+    <string name="page_comic7_title">Я перед финалом</string>
+    <string name="page_comic_7_1">Четко соблюдал ТЗ</string>
+    <string name="page_comic_7_2">Содержание - забавное и полезное</string>
+    <string name="page_comic_7_3">Займешь первое место?</string>
+    <string name="page_comic_7_4">Займу первое место</string>
+
+    <string name="page_comic8_title">Я в топе!!!</string>
+    <string name="page_comic_8_1">Принимаю поздравления!</string>
+    <string name="page_comic_8_2">Аплодисменты!</string>
+    <string name="page_comic_8_3">Ваше здоровье!</string>
+    <string name="page_comic_8_4">Не могло быть иначе!</string>
+
+    <string name="page_coop_title">Тест на сотрудничество</string>
+    <string name="page_coop_info">Выберите реплику для оппонента, перетаскивая облако с тектом</string>
+    <string name="page_coop_1_1">Я считаю, что при детях на праздничном столе не должно быть алкоголя.</string>
+    <string name="page_coop_1_2a">Мне кажется, дети все время будут играть, а не сидеть за столом, ты так не считаешь?</string>
+    <string name="page_coop_1_2b">Детям просто нужно сказать, что этот напиток - только для взрослых, и проблема решена.</string>
+    <string name="page_coop_2_1">Моя идея более клиенто-ориентирована.</string>
+    <string name="page_coop_2_3">Зато моя создаст уникальный продукт.</string>
+    <string name="page_coop_2_2a">Коллеги, давайте не будем накалять обстановку. Пойдемте выпьем пивка.</string>
+    <string name="page_coop_2_2b">Давайте распишем плюсы и минусы каждой идеи и попробуепм их совместить.</string>
+    <string name="page_coop_3_1">Куда лучше вложить деньги - в акции или валюту?</string>
+    <string name="page_coop_3_2a">Если скоро собираешься за границу, то валюта актуальнее.</string>
+    <string name="page_coop_3_2b">Как решишь, так и будет. Наверняка будущее никому не известно.</string>
+    <string name="page_coop_4_1">Пап, я устал от музыкалки, можно я ее брошу?</string>
+    <string name="page_coop_4_2a">Я-то не против, но мама расстроится.</string>
+    <string name="page_coop_4_2b">А от чего ты там устал? Могу я тебе как-то помочь?</string>
+    <string name="page_coop_5_1">Мам, я обиделась на Машку, больше с ней не дружу.</string>
+    <string name="page_coop_5_2a">И не дружи, а на день рождения Катю позови.</string>
+    <string name="page_coop_5_2b">Из-за чего вы поссорились? Может, вы еще помиритесь?</string>
+    <string name="page_coop_6_1">Если придет твоя бывшая, меня ты там не увидишь!</string>
+    <string name="page_coop_6_2a">Мне очень важно, чтобы ты пришла!</string>
+    <string name="page_coop_6_2b">Понимаю, как ты на нее зла, но посмотри моими глазами на ситуацию.</string>
+    <string name="page_coop_result">Ваш результат:</string>
+    <string name="page_coop_result_low">Ваше поведение в конфликтной ситуации далеко от стратегии сотрудничества</string>
+    <string name="page_coop_result_medium">В большинстве ситуаций вы можете успешно сотрудничать с оппонентом</string>
+    <string name="page_coop_result_high">Ваша способность к сотрудничеству - выше всех похвал!</string>
+
+    <string name="page_welcome_title">Уважаемый автор Дзена!</string>
+    <string name="page_welcome_info">Далее на каждом экране преставлены различные интерактивные
+    элементы</string>
+    <string name="page_welcome_text">Рекомендательная платформа Дзен активно развивается.
+    И сегодня мы готовы представить вашему вниманию несколько интерактивных форм для
+общения с читателями и зрителями.\n\n
+    Познакомьтесь с новыми возможностями и выберите себе то, что подойдет именно вашему блогу.\n
+    Узнайте, что нравится вашей аудитории.</string>
+
+    <string name="page_variant_title">Как долго вы читаете мой блог?</string>
+    <string name="page_variant_info">Выберите один из вариантов</string>
+    <string name="page_variant_1">Впервые увидел в ленте этот опрос</string>
+    <string name="page_variant_2">Подписался недавно</string>
+    <string name="page_variant_3">Уже примерно месяц или два</string>
+    <string name="page_variant_4">Читаю с удовольствием уже около года</string>
+    <string name="page_variant_5">Я ваш давний подписчик</string>
+
+    <string name="page_multiVariant_title">Какие мои статьи вам интереснее всего читать?</string>
+    <string name="page_multiVariant_info">Можете отметить несколько вариантов</string>
+    <string name="page_multiVariant_1">Философские размышления о вечных вопросах</string>
+    <string name="page_multiVariant_2">Когда я пишу о себе и своей семье</string>
+    <string name="page_multiVariant_3">Мои путешествия по горам и весям</string>
+    <string name="page_multiVariant_4">Опыты и эксперименты с электричеством</string>
+    <string name="page_multiVariant_5">Поделки из пластика на 3D-принтере</string>
+    <string name="page_multiVariant_6">Анекдоты про психологов</string>
+    <string name="page_level_title">Как вы оцениваете свою скорость чтения?</string>
+    <string name="page_level_info">Выберите позицию указателя ближе к тому или иному варианту</string>
+    <string name="page_level_left">Многие люди читают быстрее меня</string>
+    <string name="page_level_right">Мало кто может меня обогнать</string>
+
+    <string name="page_variant_correct_title">Перед вами - острова Санкт-Петербурга. Какой из них не является островом?</string>
+    <string name="page_variant_correct_info">Выберите один из вариантов. Будьте внимательны! Изменить свое решение будет уже нельзя</string>
+    <string name="page_variant_correct_1">Новая Голландия</string>
+    <string name="page_variant_correct_2">Дудергофский остров</string>
+    <string name="page_variant_correct_3">Белый остров</string>
+    <string name="page_variant_correct_4">Канонерский остров</string>
+    <string name="page_variant_correct_5">Заячий остров</string>
+
+    <string name="page_mappingText_title">Где находятся эти горные вершины?</string>
+    <string name="page_mappingText_info">Меняя местами слова в правом столбце, установите их так,
+чтобы в строчках получались верные на ваш взгляд утверждения</string>
+    <string name="page_mappingText_left_1">гора Маннепахк</string>
+    <string name="page_mappingText_left_2">гора Белая</string>
+    <string name="page_mappingText_left_3">гора Эльбрус</string>
+    <string name="page_mappingText_left_4">гора Народная</string>
+    <string name="page_mappingText_right_1">на Урале</string>
+    <string name="page_mappingText_right_2">на Кавказе</string>
+    <string name="page_mappingText_right_3">в Хибинах</string>
+    <string name="page_mappingText_right_4">на Алтае</string>
+
+    <string name="page_dragText_title">Хорошо ли вы знаете Пушкина?</string>
+    <string name="page_dragText_info">Вставьте правильно слова в текст, перетаскивая одно за другим</string>
+    <string name="page_dragText_text">Мой * самых честных * когда не в шутку занемог,
+    он * себя заставил и лучше выдумать не мог. Его * другим наука; но, * какая скука
+    с больным сидеть и день и ночь, не отходя ни шагу прочь!</string>
+    <string name="page_dragText_gap">_____</string>
+    <string name="page_dragText_1">боже мой,</string>
+    <string name="page_dragText_2">правил,</string>
+    <string name="page_dragText_3">уважать</string>
+    <string name="page_dragText_4">пример</string>
+    <string name="page_dragText_5">дядя</string>
+
+    <string name="page_dragImage_title">Составьте мемасик и улыбнитесь :)</string>
+    <string name="page_dragImage_info">Вставьте правильно изображения в пустые квадраты, перетаскивая одно за другим</string>
+
+    <string name="page_note_title">Есть интересные идеи или предложения?</string>
+    <string name="page_note_info">Укажите тему обращения и не стесняйтесь подробно описать вашу идею.
+Ваше послание я обязательно прочту и отвечу</string>
+    <string name="page_note_topic_label">О чем вы хотите написать?</string>
+    <string name="page_note_text_label">Пишите, не стесняйтесь…</string>
+
+    <string name="page_star_title">Оцените статью</string>
+
+    <string name="page_goodbye_title">Уважаемые члены жюри!</string>
+    <string name="page_goodbye_info">Очень надеюсь на победу в этом раунде соревнований!</string>
+    <string name="page_goodbye_text_1">Я надеюсь, что мое приложение вам понравилось и будет удостоено самой высокой оценки!\n\n
+На этом экране я опишу возможности приложения и его структуру. Так, возможно, вам легче будет его оценивать.\n\nПриложение создано при помощи следующих технологий:\n\n
+        Compose, Material 3, HiltViewModel, MVVM</string>
+    <string name="page_goodbye_text_2">В проект были добавлены следующие библиотеки:\n\n
+- accompanist-pager:0.28.0\n
+- accompanist-pager-indicators:0.28.0\n
+- hilt-navigation-compose:1.0.0-rc01\n
+- runtime-livedata:1.3.1\n
+- accompanist-flowlayout:0.28.0\n
+- core-splashscreen:1.0.0"\n\n
+Я старался обойтись минимальным набором внешних библиотек. Мне кажется представленный выше список вполне обоснованным.</string>
+    <string name="page_goodbye_text_3">Ключевые возможности приложения:\n\n
+- Бесконечная лента интерактивных элементов реализована в горизотнальном пейджере, за счет чего, на мой взгляд, ее удобно будет внедрить в вертикальную ленту рекомендованных читателю статей\n\n
+- Удобная структура приложения с архитектурой MVVM. Данные отдельно, представление отдельно, действия пользователя обрабатываются во ViewModel, данные сохраняются в state, пока пользователь выполняет задания на страницах пейджера\n\n
+- Разработаны 10 вариантов интерактивных страниц пейджера, которые легко подключать и настраивать\n\n
+- Создана анимация элементов пользовательского интерфейса\n\n
+- Реализован способ перетаскивания элементов экрана (drag and drop) без дополнительных библиотек\n\n
+- Разработана темная тема и работа приложения в горизонтальном экране</string>
+    <string name="page_goodbye_text_4">Интерактивные страницы:\n\n
+1. ImageTextPage - отображение картинки и текста\n\n
+2. SelectionVariant - выбор из нескольких вариантов\n\n
+3. SelectionMultiVariant - множественный выбор\n\n
+4. SelectionVariantCorrect - выбор из нескольких вариантов, предполагающий правильный ответ\n\n
+5. SelectionLevel - выбор позиции между двумя вариантами\n\n
+6. MappingText - сопоставление элементов между двумя столбцами\n\n
+7. DragText - заполнение пробелов в тексте\n\n
+8. DragImage - перетаскивание изображений в правильные квадраты\n\n
+9. EditText - комментарий или обращение к автору\n\n
+10. StarRating - оценка материала</string>
+
+    <string name="pager_confirm">Проверить</string>
+
+</resources>
